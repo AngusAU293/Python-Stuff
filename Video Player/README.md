@@ -8,4 +8,4 @@ Simpily download it, then run it (you need to have Python installed*).
 
 You will notice a folder being created and in the folder is all the stuff to make it run.
 
-*An EXE file will be made for the installer, and possibly for the rest.
+*An EXE file might be made for the installer, and possibly for the rest.
