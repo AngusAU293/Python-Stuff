@@ -1,6 +1,6 @@
 # Video Player
 
-## [Download](https://AngusAU293.github.io/Python-Stuff/Video%20Player/Installer.py)
+## [Download](https://AngusAU293.github.io/Video%20Player/Installer.py)
 
 ## About
 This Python program is a video player that allows you to play videos in Python.
