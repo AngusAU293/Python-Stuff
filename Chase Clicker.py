@@ -47,6 +47,7 @@ def main():
         MsgBox = messagebox.askquestion("Exit","Are you sure you want to exit?", icon = 'warning')
         if MsgBox == "yes":
             app.destroy()
+            quit()
         else:
             start()
     e = Entity(model="cube", scale=(5,5), collider="box", on_click=start)
